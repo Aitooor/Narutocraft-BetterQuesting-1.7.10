@@ -1,5 +1,10 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-/*
-/*.xml
+BetterQuesting-1.7.10.iml
+compiler.xml
+discord.xml
+gradle.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+workspace.xml
