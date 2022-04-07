@@ -1,0 +1,207 @@
+betterquesting.title.quest_lines=Líneas de misión
+betterquesting.title.edit_line1=Editar líneas de misión
+betterquesting.title.edit_line2=Editar línea de misión - %s
+betterquesting.title.edit_quest=Editar misión
+betterquesting.title.edit_tasks=Editar tarea
+betterquesting.title.edit_rewards=Editar recompensa
+betterquesting.title.edit_text=Editor de texto
+betterquesting.title.pre_requisites=Editar pre-requisitos
+betterquesting.title.json_object=Objeto
+betterquesting.title.json_array=Lista
+betterquesting.title.json_add=Nuevo tipo
+betterquesting.title.select_item=Selecciona Item
+betterquesting.title.select_fluid=Selecciona fluido
+betterquesting.title.select_entity=Selecciona entidad
+betterquesting.title.party_none=Equipo de misiones
+betterquesting.title.party=Editar equipo - %s
+betterquesting.title.party_invite=Invitar jugadores
+betterquesting.title.select_theme=Seleccionar tema
+betterquesting.title.importers=Importadores
+betterquesting.title.submit_station=Enviar estación
+
+betterquesting.btn.rewards=Recompensas
+betterquesting.btn.tasks=Tareas
+betterquesting.btn.advanced=Avanzado
+betterquesting.btn.is_main=Es principal
+betterquesting.btn.requirements=Requisitos
+betterquesting.btn.edit=Editar
+betterquesting.btn.new=Agregar
+betterquesting.btn.import=Importar
+betterquesting.btn.logic=Lógica
+betterquesting.btn.show=Mostrar
+betterquesting.btn.claim=Reclamar
+betterquesting.btn.detect_submit=Detectar/Enviar
+betterquesting.btn.add_remove_quests=Añadir/Remover misiones
+betterquesting.btn.designer=Diseñador
+betterquesting.btn.item=Item
+betterquesting.btn.list=Lista
+betterquesting.btn.fluid=Fluido
+betterquesting.btn.entity=Entidad
+betterquesting.btn.text=Texto
+betterquesting.btn.number=Numero
+betterquesting.btn.object=Objeto
+betterquesting.btn.raw_nbt=NBT en bruto
+betterquesting.btn.party_new=Crear equipo
+betterquesting.btn.party_leave=Abandonar
+betterquesting.btn.party_invite=Invitar
+betterquesting.btn.party_kick=Echar
+betterquesting.btn.party_join=Unirse
+betterquesting.btn.party_share_lives=Compartir vidas
+betterquesting.btn.party_share_loot=Recompensa única
+betterquesting.btn.icon=Icono
+betterquesting.btn.claim_all=Reclamar todo
+betterquesting.btn.zoom_fit=Encajar
+betterquesting.btn.lock_tray=Bandeja de bloqueo
+
+betterquesting.home.exit=Salir
+betterquesting.home.quests=Misiones
+betterquesting.home.party=Equipo
+betterquesting.home.theme=Tema
+
+betterquesting.gui.name=Nombre
+betterquesting.gui.description=Descripción
+betterquesting.gui.quest_line=Linea de misión
+betterquesting.gui.database=Base de datos
+betterquesting.gui.selection=Selección
+betterquesting.gui.search=Buscar
+betterquesting.gui.folder=Carpeta
+betterquesting.gui.party_invites=Invitaciones
+betterquesting.gui.party_members=Miembros
+betterquesting.gui.remaining_lives=Vidas restantes: %s
+betterquesting.gui.full_lives=Vidas llenas
+betterquesting.gui.closing_warning=¿Estas seguro que quieres cerrar este editor?
+betterquesting.gui.closing_confirm=¡Los cambios pueden perderse!
+betterquesting.gui.key=Nombre clave
+betterquesting.gui.no_key=Sin clave
+betterquesting.gui.duplicate_key=Clave duplicada
+
+betterquesting.tooltip.tasks_complete=%s/%s Tareas completadas
+betterquesting.tooltip.complete=COMPLETA
+betterquesting.tooltip.incomplete=INCOMPLETA
+betterquesting.tooltip.rewards_pending=Recompensas no reclamadas
+betterquesting.tooltip.requires=Requiere:
+betterquesting.tooltip.shift_advanced=Mantenga presionado SHIFT para información avanzada
+betterquesting.tooltip.reset_time=Tiempo de reutilización: %s
+betterquesting.tooltip.main_quest=Misión principal: %s
+betterquesting.tooltip.global_quest=Misión global: %s
+betterquesting.tooltip.global_share=participación global: %s
+betterquesting.tooltip.task_logic=Lógica de la tarea: %s
+betterquesting.tooltip.quest_logic=Lógica de la misión: %s
+betterquesting.tooltip.simultaneous=Tareas simultáneas: %s
+betterquesting.tooltip.auto_claim=Reclamar automáticamente: %s
+betterquesting.tooltip.repeat=Tiempo de reutilización: %s
+betterquesting.tooltip.update_quests=¡Actualización disponible!%n§7Una nueva versión de la línea de misiones está disponible.%nClick para instalar y migrar el progreso.
+
+betterquesting.notice.complete=Misión completada
+betterquesting.notice.update=Misión actualizada
+betterquesting.notice.unlock=Misión desbloqueada
+
+betterquesting.msg.heart_disabled=Las vidas hardcore no están habilitadas. Use "/bq_admin hardcore" para cambiarlo
+
+key.betterquesting.quests=Abrir misiones
+key.betterquesting.party=Administrador de equipos
+key.betterquesting.themes=Cambiar tema
+
+itemGroup.betterquesting=Better Questing
+
+fluid.betterquesting.placeholder=Placeholder
+
+item.betterquesting.placeholder.name=Item Placeholder
+item.betterquesting.extra_life.full.name=Vida extra
+item.betterquesting.extra_life.half.name=Medio corazon
+item.betterquesting.extra_life.quarter.name=Un cuarto de corazon
+item.betterquesting.guide.name=Guía de iniciación de Better Questing
+
+tile.betterquesting.submit_station.name=Estación de envío de objetos (EEO)
+
+betterquesting.btn.help1=Navegación
+betterquesting.btn.help2=Bloque EEO
+betterquesting.btn.help3=Creando misiones
+betterquesting.btn.help4=Comandos
+betterquesting.btn.help5=Importación
+betterquesting.btn.help6=Temas
+betterquesting.btn.help7=Traducción
+betterquesting.btn.help8=Recursos
+
+betterquesting.help.page1=§l§nNavegación general%n§r%nLas interfaces principales de Better Questing no dependen de un elemento o bloque que podría perderse fácilmente, sino a través de un único enlace de teclas que se puede encontrar y cambiar a través del menú de controles.%n%nEn la pantalla de Líneas de Misión puedes seleccionar cualquiera de tus líneas activas de la lista y arrastrar alrededor de la caja para navegar a la misión de tu elección para comenzar a completar las tareas.%n%nSe pueden crear o editar grupos de búsqueda a través de las pantallas de Administración de Partes. Aquí también puedes alternar opciones para compartir vidas hardcore o recompensas de misiones.%n%nSi desea cambiar el aspecto de las interfaces de búsqueda, puede elegir entre los temas instalados actualmente en la pantalla de selección de temas.
+betterquesting.help.page2=§l§nEstación de Envío%n§r%nAunque muchas de las tareas de búsqueda se pueden enviar directamente a través de su inventario (incluyendo líquidos) a veces necesita una solución más automatizada. Aquí es donde la Estación de Envío de Objetos (EEO) es muy útil. Las tareas que soportan el EEO se pueden seleccionar a través de la interfaz integrada para permitir su uso. Una vez configurado, los líquidos y los elementos pueden ser canalizados o lanzados a la ranura de entrada de la interfaz, sin embargo, no anulará los elementos o líquidos si no se selecciona ninguna tarea o si ya se ha completado, lo que lo hace relativamente seguro de la eliminación accidental de elementos/fluidos. ¡Múltiples EEO también son capaces de asumir sub-tareas separadas bajo la misma misión simultáneamente!
+betterquesting.help.page3=§l§nCreando misiones%n§r%nPara comenzar a crear misiones y líneas de misión, primero tendrá que habilitar el modo de edición ejecutando el comando de edición (Ver comandos para más información). A continuación, podrás agregar o eliminar líneas de misión, pero no necesitarás una para comenzar a hacer misiones. Esto es especialmente útil si quieres hacer misiones secretas que desbloquean otras misiones o líneas de misiones.%n%nHay varios menús con los que tendrá que familiarizarse mientras edita. Estos serán un poco abrumadores al principio en comparación con la mayoría de los otros mods, pero con el tiempo será más fácil. Algunas pantallas de edición avanzada editarán datos de búsqueda sin procesar, por lo que debera tener mucho cuidado con lo que cambia, ya que podría tener efectos secundarios adversos, sin embargo, esto nunca debería resultar en corrupción o un accidente. Si cualquiera de los dos se produce que usted debe informar inmediatamente a un desarrollador.
+betterquesting.help.page4=§l§nComandos%n§r%nSolo hay un puñado de comandos que necesitas saber cuando trabajas con Better Questing. Se separan en comandos de usuario que cualquiera puede ejecutar y comandos de administración que están restringidos a los operadores de servidor.%n%n§o/bq_user refresh%n§r%nResincroniza manualmente la base de datos local con el servidor en caso de potenciales problemas de desincronización %n%n§o/bq_user help%n§r%nProporciona al jugador una copia de esta guía.%n%n§o/bq_admin edit%n§r%nCambia el modo de edición de misiones de forma intermitente. Cuando esté habilitado, los operadores podrán acceder a los menús de edición de misiones y líneas de misiones. Recuerda desactivar esto antes de publicar paquetes o misiones.%n%n§o/bq_admin hardcore%n§r%nActiva y desactiva el uso de vidas hardcore. Cuando todas las vidas se han agotado, los jugadores serán baneados del servidor o se eliminará su mundo según el estándar de vainilla hardcore. %n%n§o/bq_admin reset [all|<quest_id>] [usuario|uuid]%n§r%nBorra los datos de finalización de misiones para el usuario dado. Útil para usar antes de publicar paquetes.%n%n§o/bq_admin default [save|load]%n§r%nGuarda/carga la base de datos de misiones actual a/desde el directorio global predeterminado. Establecer valores predeterminados significa que cualquier mundo recién creado comenzará con ese conjunto particular de misiones. El guardado también preservará los datos de finalización, el estado hardcore y el modo de edición, así que asegúrese de usar los otros comandos según sea necesario antes de ejecutar este.%n%n§o/bq_admin complete <quest_id> [usuario|uuid]%n§r%nCompleta a la fuerza una misión para el usuario dado.%n%n§o/bq_admin delete [all|<quest_id>]%n§r%n.Elimina las misiones dadas y su progreso, de todas maneras, no la borra de la base de datos.%n%n§o/bq_admin lives [add|set|máx|default] <value> [usuario]%n§r%nEstos comandos cambian la cantidad de vidas que tienen los jugadores o los valores iniciales y máximos.
+betterquesting.help.page5=§l§nImportación%n§r%n Algunas expansiones pueden incluir importadores para otros mods de búsqueda o permitir a los desarrolladores de paquetes descargar líneas de búsqueda en línea. Para acceder a estos importadores puedes hacer clic en el botón 'Importar' en el editor principal de la línea de misiones. Por defecto, Better Questing no tiene importadores, así que si necesitas un importador específico tendrás que encontrar una expansión con uno o hacerlo tú mismo.
+betterquesting.help.page6=§l§nTemas%n§r%nSi usted es alguien que prefiere una cierta paleta de color en sus interfaces o es solo un desarrollador de paquetes que quiere darle un aspecto más auténtico, entonces los temas son su mejor amigo. Los temas pueden cambiar el aspecto de las interfaces de búsqueda para adaptarse a sus necesidades, pueden ser futuristas, mágicos o simplemente Minecraft clásico. Se pueden instalar a través de paquetes de recursos, directorios de recursos o expansiones.
+betterquesting.help.page7=§l§nTraducción%n§r%nBetter Questing es compatible con la traducción completa de los nombres y descripciones de las misiones para que si desea lanzar su paquete a los usuarios de todas las nacionalidades, ¡Ahora puede hacerlo! Para comenzar a traducir tus misiones necesitarás usar claves únicas como "§omypack.quest1.name§r" en lugar de texto sin formato. A continuación, puede crear un paquete de recursos que contenga solo archivos .lang para todas las traducciones específicas del idioma. Estos archivos se pueden almacenar alternativamente en el directorio de recursos de Better Questing para una mejor agrupación en paquetes.
+betterquesting.help.page8=§l§nRecursos%n§r%nSi desea personalizar la pantalla de inicio, agrupar temas o agregar archivos de traducción, puede hacerlo a través de: %n%n"§o/config/betterquesting/resources/<pack_name>/§r"%n%nCualquier carpeta aquí puede ser tratada como paquetes de recursos no listados que contienen todo lo necesario para personalizar su paquete.
+
+betterquesting.design.tree=Diseño de árbol
+
+betterquesting.toolbox.tab.main=Principal
+
+betterquesting.toolbox.tool.open.name=Abrir
+betterquesting.toolbox.tool.open.desc=Abre una misión para la edición posterior
+betterquesting.toolbox.tool.grab.name=Coger
+betterquesting.toolbox.tool.grab.desc=Recoge y mueve misiones en otro lugar de la línea de misiones
+betterquesting.toolbox.tool.link.name=Enlazar
+betterquesting.toolbox.tool.link.desc=Establece una misión como prerrequisitos para otras. Si un enlace ya está presente, entonces se elimina
+betterquesting.toolbox.tool.snap.name=Ajustar a la cuadricula
+betterquesting.toolbox.tool.snap.desc=Cambia la resolución de ajuste a la cuadrícula para otras herramientas
+betterquesting.toolbox.tool.copy.name=Copiar
+betterquesting.toolbox.tool.copy.desc=Copia la misión dada, incluidos los requisitos previos, tareas y recompensas, pero no los datos de progresión
+betterquesting.toolbox.tool.new.name=Nueva misión
+betterquesting.toolbox.tool.new.desc=Crea una nueva misión
+betterquesting.toolbox.tool.delete.name=Eliminar misión
+betterquesting.toolbox.tool.delete.desc=Elimina la misión dada de la linea de misiones y de la base de datos
+betterquesting.toolbox.tool.remove.name=Borrar misión
+betterquesting.toolbox.tool.remove.desc=Elimina la misión dada solo desde la línea de búsqueda. La misión seguirá siendo accesible a través de la base de datos
+betterquesting.toolbox.tool.complete.name=Completar misión
+betterquesting.toolbox.tool.complete.desc=Completa la misión seleccionada a la fuerza
+betterquesting.toolbox.tool.reset.name=Restablecer misión
+betterquesting.toolbox.tool.reset.desc=Restablece el estado de finalización y todo el progreso de la tarea
+betterquesting.toolbox.tool.icon.name=Seleccione el icono
+betterquesting.toolbox.tool.icon.desc=Cambia el icono de la misión
+betterquesting.toolbox.tool.scale.name=Escala iconos
+betterquesting.toolbox.tool.scale.desc=Escala los iconos de la misión hacia arriba o hacia abajo
+betterquesting.toolbox.tool.raw.name=Editar en bruto
+betterquesting.toolbox.tool.raw.desc=Abre la línea de búsqueda JSON sin procesar para su edición. Incluye ajustes ocultos adicionales como cambiar el fondo
+betterquesting.toolbox.tool.frame.name=Editar icono
+betterquesting.toolbox.tool.frame.desc=Cambia el estilo de los iconos de la misión
+
+betterquesting.cmd.complete=Misión completada %s para %s
+betterquesting.cmd.default.save=Base de datos de misiones guardada por defecto
+betterquesting.cmd.default.save2=Base de datos de misiones guardada en %s
+betterquesting.cmd.default.load=Base de datos de misiones predeterminada recargada
+betterquesting.cmd.default.load2=Base de datos de misiones cargada desde %s
+betterquesting.cmd.default.set=Estableciste %s como la base de datos de misiones predeterminada
+betterquesting.cmd.default.none=No se encontró la base de datos de misiones
+betterquesting.cmd.delete.single=La misión %s ha sido eliminada
+betterquesting.cmd.delete.all=Todas las misiones han sido eliminadas
+betterquesting.cmd.edit=Modo edición %s
+betterquesting.cmd.hardcore=Modo hardcore %s
+betterquesting.cmd.purge_hidden=Eliminaste %s misión(es) oculta(s)
+
+betterquesting.cmd.lives.add_player=%s Vidas añadidas a %s (Total: %s)
+betterquesting.cmd.lives.add_all=%s Vidas añadidas a todos los jugadores
+betterquesting.cmd.lives.remove_player=%s Vidas eliminadas de %s (Total: %s)
+betterquesting.cmd.lives.remove_all=%s Vidas eliminadas de todos los jugadores
+betterquesting.cmd.lives.set_player=Estableciste las vidas de %s a %s
+betterquesting.cmd.lives.set_all=Estableciste las vidas de todos los jugadores a %s
+betterquesting.cmd.lives.max=Estableciste las vidas máximas a %s
+betterquesting.cmd.lives.default=Estableciste la vida por defecto en %s
+
+betterquesting.cmd.reset.player_single=Restableciste la misión '%s' para %s
+betterquesting.cmd.reset.player_all=Restableciste todas las misiones para %s
+betterquesting.cmd.reset.all_single=Restableciste la misión '%s' para todos
+betterquesting.cmd.reset.all_all=Restableciste todas las misiones para todos
+betterquesting.cmd.refresh=Actualizando la base de datos local...
+
+json.betterquesting.quest.name=Información de la misión
+jdoc.betterquesting.quest.rewards.name=Recompensas
+jdoc.betterquesting.quest.rewards.desc=Lista de tipos de recompensas configurables
+jdoc.betterquesting.quest.tasks.name=Tareas
+jdoc.betterquesting.quest.tasks.desc=Lista de tipos de tareas configurables
+jdoc.betterquesting.quest.preRequisites.name=Pre-requisitos
+jdoc.betterquesting.quest.preRequisites.desc=Lista de identificadores de misiones principales utilizados para desbloquear esta misión
+jdoc.betterquesting.quest.properties.name=Propiedades
+jdoc.betterquesting.quest.properties.desc=Propiedades que definen la apariencia y funcionalidad de la misión
+
+jdoc.betterquesting.quest.properties.betterquesting.name=BetterQuesting
+jdoc.betterquesting.quest.properties.betterquesting.desc=Propiedades de BetterQuesting
