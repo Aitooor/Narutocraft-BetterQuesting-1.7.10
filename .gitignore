@@ -2,3 +2,7 @@
 !/gradle/
 !/.idea/
 !/build/
+build/
+.gradle/
+.idea/
+gradle/
