@@ -1,8 +1,9 @@
-!/.gradle/
-!/gradle/
-!/.idea/
 !/build/
 build/
-.gradle/
-.idea/
-gradle/
+
+!/.idea/
+/.idea/
+
+!/gradle/
+/gradle/
+!/.gradle/
